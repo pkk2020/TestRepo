@@ -7,4 +7,4 @@ print (a.count(3))
 print (chr(a.pop()))
 
 # a.clear()
-print ('after clear:',a)
+print ('after clear change:',a)
